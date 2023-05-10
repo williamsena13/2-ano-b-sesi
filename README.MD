@@ -4,7 +4,7 @@
 ### Alunos: 
 - [Alana Gabriella da Silva Simoes](https://github.com/alanasimoes11/2-ano-b-sesi)
 - [Ana Elisa Da Silva De Andrade](https://github.com/Anaandrade06/2-ano-b-sesi)
-- [Any Carolini Fabricio](https://github.com/anycarolini21/2-ano-b-sesi)
+- [Any Carolisni Fabricio](https://github.com/anycarolini21/2-ano-b-sesi)
 - [Any Gabrieli](https://github.com/anygabrieli/2-ano-b-sesi)
 - [Bruno Guilherme de Castro](https://github.com/Brunoxl03/2-ano-b-sesi)
 - [Deise Elen do Nascimento](https://github.com/D3ise/2-ano-b-sesi)
