@@ -12,13 +12,12 @@
 - Guilherme de Castro Borges
 - [Gustavo Emanuel Cassins](https://github.com/GustavoEMANUE/2-ano-b-sesi)
 -- Corrigir arquivo ```Gustavo-emanuel``` para ```gustavo-emanuel.md```
-- Jean Gustavo Cândido
+- [Jean Gustavo Cândido](https://github.com/jeangustavoo/2-ano-b-sesi)
 - [Julia Reis da Silva](https://github.com/juliareis14/2-ano-b-sesi)
 - [Kauê Macedo Roberto](https://github.com/kmarmc/2-ano-b-sesi)
 - [Kawan Silva Costa](https://github.com/kawan-70/2-ano-b-sesi)
 -- Corrigir arquivoi ```kawan-silva-costa``` para ```kawan-silva-costa.md```
 - [Leticia Ferreira Pires](https://github.com/piresleticia/2-ano-b-sesi)
-- Luna Rossi Orsini
 - [Maria Eduarda Alves da Silva](https://github.com/marieduas/2-ano-b-sesi)
 -- Corrigir arquivo ```maria-eduarda-alves``` para ```maria-eduarda-alves.md```
 - [Maria Eduarda Cordeiro Barros](https://github.com/Barrosmaria07/2-ano-b-sesi) 
@@ -27,16 +26,17 @@
 - [Maria Vitória Gouveia](https://github.com/mariavi00/2-ano-b-sesi)
 - [Marianna Santiago Godoy](https://github.com/Marigodoy26/2-ano-b-sesi)
 - [Matheus Venancio Dos Santos](https://github.com/matheusvenanciodossantos/2-ano-b-sesi)
-- Patrícia Angelita Duarte Rodrigues
+- [Marya Eduarda Souza Martins](https://github.com/Marya16/2-ano-b-sesi)
+- [Patrícia Angelita Duarte Rodrigues](https://github.com/pati573022/2-ano-b-sesi)
 - [Rafaela Reis da Silva](https://github.com/rafaelareisilva/2-ano-b-sesi)
 - [Sarah Nandynne Guerra Miguel](https://github.com/sarahnandynne/2-ano-b-sesi)
 - [Victoria Fernanda Jadach Costa](https://github.com/vikjadach/2-ano-b-sesi)
 -- Corrigir arquivo ```victoria-jadach``` para ```victoria-jadach.md```
-- Yasmin Vitoria da Cruz Linardi
+- [Yasmin Vitoria da Cruz Linardi](https://github.com/YasminLinardi/2-ano-b-sesi)
 - [Greta Louise](https://github.com/GretaLouise/2-ano-b-sesi)
 - [Julia Rihane Santana](https://github.com/jsantana07/2-ano-b-sesi)
 
-- [Marya Eduarda Souza Martins](https://github.com/Marya16/2-ano-b-sesi)
+
 
 
 ### Este projeto será desenvolvido junto aos alunos do Segundo Ano B do SESI de Apucarana.
