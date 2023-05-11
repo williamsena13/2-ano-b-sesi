@@ -1,22 +1,66 @@
- /* Define a cor do texto para azul e o tamanho da fonte para 16 pixels */
- h1 {
-    color: blue;
-    font-size: 16px;
-  }
+/* Manipulando elementos por TAG */
+p { 
+  color: blueviolet;
+}
 
-  /* Define a cor de fundo para amarelo claro */
-  body {
-    background-color: lightyellow;
+/* 
+  Manipulando elemento por CLASSE 
+  Ex: .nome-classe { 
   }
+*/
 
-  /* Define a cor do link para verde e adiciona sublinhado quando o cursor passa sobre ele */
-  a {
-    color: green;
-    text-decoration: underline;
-  }
+.link-menu {
+  color : red;
+}
 
-  /* Define a cor do texto para vermelho e adiciona uma borda de 1 pixel */
-  p {
-    color: red;
-    border: 1px solid black;
-  }
+.text-center { 
+  text-align: center;
+}
+
+/* Manipulando arquivos por ID */
+#titulo-principal {
+  color: green;
+}
+
+body { background: #FFFFFF }
+
+h1 {
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 2;
+
+}
+        
+
+h2 {
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 9px;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px; /* Adiciona espaço negativo para compensar o espaço extra */
+}
+
+.row::after {
+  content: "";
+  flex: auto;
+}
+
+[class^="col-"] {
+  box-sizing: border-box;
+  padding: 10px; /* Adiciona espaço interno às colunas */
+}
+
+.col-4 {
+  flex: 0 0 33.33%; /* Define cada coluna com 1/3 (33.33%) de largura */
+}

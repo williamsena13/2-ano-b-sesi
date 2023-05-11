@@ -1,6 +1,8 @@
 # Desenvolvimento De Sistema 2º Ano B
 ### Professor: [William B. Sena](https://github.com/williamsena13/2-ano-b-sesi)
 
+# ATENÇÃO ALUNOS, EFETUAR CORREÇÃO ATÉ DIA 11/05/2023
+
 ### Alunos: 
 - [Alana Gabriella da Silva Simoes](https://github.com/alanasimoes11/2-ano-b-sesi)
     -- Corrigir esturutra de arquivo ```index.html```. Incluir dados sobre o Aluno no HTML
@@ -41,8 +43,4 @@
 - [Greta Louise](https://github.com/GretaLouise/2-ano-b-sesi)
 - [Julia Rihane Santana](https://github.com/jsantana07/2-ano-b-sesi)
 
-
-
-
 ### Este projeto será desenvolvido junto aos alunos do Segundo Ano B do SESI de Apucarana.
-
