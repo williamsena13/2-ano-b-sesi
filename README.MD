@@ -15,7 +15,7 @@
 - [Bruno Guilherme de Castro](https://github.com/Brunoxl03/2-ano-b-sesi)
 - [Deise Elen do Nascimento](https://github.com/D3ise/2-ano-b-sesi)
 - [Guilherme Henrique Maroni Igarashi](https://github.com/GuilhermeIgarashi7/2-ano-b-sesi)
-- Guilherme de Castro Borges ( Não realizou nenhuma atividade )
+- Guilherme de Castro Borges ( Não entregou nenhuma atividade )
 - [Gustavo Emanuel Cassins](https://github.com/GustavoEMANUE/2-ano-b-sesi)
     -- Existem arquivos em Duplicidade
 - [Jean Gustavo Cândido](https://github.com/jeangustavoo/2-ano-b-sesi)
