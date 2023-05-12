@@ -1,14 +1,16 @@
 # Desenvolvimento De Sistema 2º Ano B
 ### Professor: [William B. Sena](https://github.com/williamsena13/2-ano-b-sesi)
 
-# ATENÇÃO ALUNOS, EFETUAR CORREÇÃO ATÉ DIA 11/05/2023
+# Atenção Alunos que estão com atividade em atraso, devem corrigir no dia 12/05/2023, caso contrário ficarão sem nota ou com nota parcial.
 
 ### Alunos: 
 - [Alana Gabriella da Silva Simoes](https://github.com/alanasimoes11/2-ano-b-sesi)
     -- Corrigir esturutra de arquivo ```index.html```. Incluir dados sobre o Aluno no HTML
+- [Ana Beatriz de Sousa Bovo](https://github.com/Anabovo/2-ano-b-sesi)
 - [Ana Elisa Da Silva De Andrade](https://github.com/Anaandrade06/2-ano-b-sesi)
     -- Corrigir estrutura do arquivo ```index.html```.
-- [Any Carolisni Fabricio](https://github.com/anycarolini21/2-ano-b-sesi)    
+- [Ana Beatriz De Sousa Bovo]()
+- [Any Caroline Fabricio](https://github.com/anycarolini21/2-ano-b-sesi)    
 - [Any Gabrieli](https://github.com/anygabrieli/2-ano-b-sesi)
 - [Bruno Guilherme de Castro](https://github.com/Brunoxl03/2-ano-b-sesi)
     -- Incluir nome da equipe no arquivo ```index.html```.
