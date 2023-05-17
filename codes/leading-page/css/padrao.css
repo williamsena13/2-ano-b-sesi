@@ -1,15 +1,33 @@
-html, body {
-  height: 100%;
+/* 
+  Classe  => <html class="nome-classe"> 
+  .nome-classe {
+    color : azul
+  }
+*/
+.texto-azul {
+  color: blue;
 }
 
-body {
-  margin: 0;
+/* 
+  TAG HTML 
+  h1 {
+    color : yellow;
+  }
+*/
+h2 {
+  color : yellow
 }
 
-main {
-  min-height: 100vh;
+/* 
+  ID  => <html id="id-css"> 
+  #id-css {
+    color : azul
+  }
+*/
+#titulo-pagina {
+  color :aquamarine;
 }
-/* Estilos para o cabeçalho */
+
 header {
     background-color: #333;
     color: #fff;
@@ -56,7 +74,7 @@ header {
   }
   
   section {
-    background-color: #949090;
+    background-color: #f5f5f5;
     padding: 20px;
     margin-bottom: 40px;
   }
@@ -71,7 +89,6 @@ header {
     line-height: 1.5;
   }
   
-  
   /* Estilos para o rodapé */
   footer {
     background-color: #333;
@@ -82,14 +99,6 @@ header {
     font-size: 18px;
     text-decoration: none;
     color: #fff;
-    margin: 0;
-    font-size: 14px;
-  }
-
-  footer button {
-    font-size: 18px;
-    text-decoration: none;
-    color: #eb2b2b;
     margin: 0;
     font-size: 14px;
   }

@@ -1,0 +1,22 @@
+ /* Define a cor do texto para azul e o tamanho da fonte para 16 pixels */
+ h1 {
+    color: blue;
+    font-size: 16px;
+  }
+
+  /* Define a cor de fundo para amarelo claro */
+  body {
+    background-color: lightyellow;
+  }
+
+  /* Define a cor do link para verde e adiciona sublinhado quando o cursor passa sobre ele */
+  a {
+    color: green;
+    text-decoration: underline;
+  }
+
+  /* Define a cor do texto para vermelho e adiciona uma borda de 1 pixel */
+  p {
+    color: red;
+    border: 1px solid black;
+  }

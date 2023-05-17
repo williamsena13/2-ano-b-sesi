@@ -1,0 +1,20 @@
+/* TAG HTML */
+h1 {
+    color : red
+}
+
+/* CLASSE */
+.texto-azul {
+    color : blue;
+}
+.texto-amarelo {
+    color: yellow;
+}
+.texto-vermelho {
+    color : red;
+}
+
+/* ID */
+#titulo-pagina {
+    color:chartreuse;
+}
