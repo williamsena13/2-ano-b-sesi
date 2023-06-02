@@ -2,37 +2,92 @@
 ### Professor: [William B. Sena](https://github.com/williamsena13/2-ano-b-sesi)
 
 ### Alunos: 
-01 - [Alana Gabriella da Silva Simoes](https://github.com/alanasimoes11)
-02 - [Ana Beatriz de Sousa Bovo](https://github.com/Anabovo)
-03 - [Ana Elisa Da Silva De Andrade](https://github.com/Anaandrade06)
-04 - [Any Caroline Fabricio](https://github.com/anycarolini21)    
-05 - [Any Gabrieli Fabricio](https://github.com/anygabrieli)
-06 - [Bruno Guilherme de Castro](https://github.com/Brunoxl03)
-07 - [Bryan Alves Borela]()
-08 - [Deise Elen do Nascimento](https://github.com/D3ise)
-09 - [Greta Louise](https://github.com/GretaLouise)
-10 - [Guilherme de Castro Borges]()
-11 - [Guilherme Henrique Maroni Igarashi](https://github.com/GuilhermeIgarashi7)
-12 - [Gustavo Emanuel Cassins](https://github.com/GustavoEMANUE)
-13 - [Jean Gustavo Cândido](https://github.com/jeangustavoo)
-14 - [Julia Reis da Silva](https://github.com/juliareis14)
-15 - [Julia Rihane Santana](https://github.com/jsantana07)
-16 - [Kauê Macedo Roberto](https://github.com/kmarmc)
-17 - [Leticia Ferreira Pires](https://github.com/piresleticia)
-18 - [Luis Gustavo Plath Disaró]()
-19 - [Maria Eduarda Alves da Silva](https://github.com/marieduas)
-20 - [Maria Eduarda Cordeiro Barros](https://github.com/Barrosmaria07) 
-21 - [Maria Isabele dos Santos](https://github.com/isantos10)
-22 - [Maria Vitória Gouveia](https://github.com/mariavi00)
-23 - [Marianna Santiago Godoy](https://github.com/Marigodoy26)
-24 - [Marya Eduarda Souza Martins](https://github.com/Marya16)
-25 - [Matheus Venancio Dos Santos](https://github.com/matheusvenanciodossantos)
-26 - [Patrícia Angelita Duarte Rodrigues](https://github.com/pati573022)
-27 - [Rafaela Reis da Silva](https://github.com/rafaelareisilva)
-28 - [Sarah Nandynne Guerra Miguel](https://github.com/sarahnandynne)
-29 - [Victoria Fernanda Jadach Costa](https://github.com/vikjadach)
-30 - [Yasmin Vitoria da Cruz Linardi](https://github.com/YasminLinardi)
-
-
+- 01 - [Alana Gabriella da Silva Simoes](https://github.com/alanasimoes11)
+-- Faltou customizar tag ```<title>```
+- 02 - [Ana Beatriz de Sousa Bovo](https://github.com/Anabovo)
+-- Faltou customizar tag ```<title>```
+- 03 - [Ana Elisa Da Silva De Andrade](https://github.com/Anaandrade06)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 04 - [Any Caroline Fabricio](https://github.com/anycarolini21)    
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 05 - [Any Gabrieli Fabricio](https://github.com/anygabrieli)
+-- Github não funciona
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 06 - [Bruno Guilherme de Castro](https://github.com/Brunoxl03)
+-- Github.ion não funciona
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 07 - [Bryan Alves Borela](https://github.com/bryan0000000)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 08 - [Deise Elen do Nascimento](https://github.com/D3ise)
+-- Faltou customizar tag ```<title>```
+- 09 - [Greta Louise](https://github.com/GretaLouise)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 10 - [Guilherme de Castro Borges](https://github.com/Guic68)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 11 - [Guilherme Henrique Maroni Igarashi](https://github.com/GuilhermeIgarashi7)
+-- Muito bom 
+- 12 - [Gustavo Emanuel Cassins](https://github.com/GustavoEMANUE)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 13 - [Jean Gustavo Cândido](https://github.com/jeangustavoo)
+-- Github.io não funciona
+-- Não foi customizado
+-- Não foi entregue atividade
+- 14 - [Julia Reis da Silva](https://github.com/juliareis14)
+- 15 - [Julia Rihane Santana](https://github.com/jsantana07)
+-- Faltou customizar tag ```<title>```
+- 16 - [Kauê Macedo Roberto](https://github.com/kmarmc)
+-- Faltou customizar tag ```<footer>```
+- 17 - [Leticia Ferreira Pires](https://github.com/piresleticia)
+-- Faltou customizar tag ```<footer>```
+- 18 - [Luis Gustavo Plath Disaró](https://github.com/luisplathdm)
+-- Falta alterar cor das letras
+- 19 - [Maria Eduarda Alves da Silva](https://github.com/marieduas)
+-- Estrutura do Github.io não funciona
+-- Footer poderia ter conteúdo
+-- Botões sem conteúdo poderiam ter sido retirados
+- 20 - [Maria Eduarda Cordeiro Barros](https://github.com/Barrosmaria07) 
+-- Boa estrutura
+-- Poderia mudar cor dos botões
+- 21 - [Maria Isabele dos Santos](https://github.com/isantos10)
+-- github.io não funciona
+-- Não foi realizado atividade de customização. Se inicio e não foi finailizado
+- 22 - [Maria Vitória Gouveia](https://github.com/mariavi00)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+-- Retirar botões que não estão sendo utilizados
+- 23 - [Marianna Santiago Godoy](https://github.com/Marigodoy26)
+-- github.io não funciona
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+-- Retirar botões que não estão sendo utilizados
+- 24 - [Marya Eduarda Souza Martins](https://github.com/Marya16)
+-- Muito bom 
+- 25 - [Matheus Venancio Dos Santos](https://github.com/matheusvenanciodossantos)
+-- Poderia reduzir texto da label *codigo de confirmação*
+- 26 - [Patrícia Angelita Duarte Rodrigues](https://github.com/pati573022)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+-- Retirar botões que não estão sendo utilizados
+- 27 - [Rafaela Reis da Silva](https://github.com/rafaelareisilva)
+-- Faltou customizar tag ```<title>``` das páginas albun
+- 28 - [Sarah Nandynne Guerra Miguel](https://github.com/sarahnandynne)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+- 29 - [Victoria Fernanda Jadach Costa](https://github.com/vikjadach)
+-- Faltou criar github.io
+-- Talvez o templete ideal seja o caroseul
+- 30 - [Yasmin Vitoria da Cruz Linardi](https://github.com/YasminLinardi)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Faltou customizar tag ```<footer>```
+-- Retirar botões que não estão sendo utilizados
 
 ### Este projeto será desenvolvido junto aos alunos do Segundo Ano B do SESI de Apucarana.
